@@ -7,7 +7,7 @@
     <ProjectGuid>{1D49C6AF-A4E3-4EEF-91D2-FA7E1DE6D3BF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KLibrary.Reactive</RootNamespace>
+    <RootNamespace>KLibrary</RootNamespace>
     <AssemblyName>KLibrary.Reactive</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
