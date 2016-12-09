@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Reactive
+namespace KLibrary.Reactive
 {
     public class Class1
     {
